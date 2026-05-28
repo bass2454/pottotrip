@@ -1,0 +1,2 @@
+# pottotrip
+AI trip planner
